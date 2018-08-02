@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/shell.dir/main.c.o CMakeFiles/shell.dir/line.c.o CMakeFiles/shell.dir/execute.c.o CMakeFiles/shell.dir/prompt.c.o CMakeFiles/shell.dir/handler.c.o  -o shell 
